@@ -22,7 +22,7 @@
         "markdown-to-jsx": "^7.7.1",
         "next": "^15.4.8",
         "react": "^19.0.0",
-        "react-dom": "^19.0.0"
+        "react-dom": "^19.2.3"
     },
     "devDependencies": {
         "@stackbit/cms-git": "^1.0.2",
